@@ -1,3 +1,36 @@
 In this document, I collect the papers I found interesting  to read for the research.
 
 1) projection-based reduced order model for simulations of Nonlinear flows with multiple moving objects: https://arxiv.org/pdf/2106.02338.pdf
+Openfoam is used in this paper combining with POD.
+
+2) Global model reduction for flows with moving boundary: https://wordpress.nmsu.edu/mjwei/files/2015/05/AIAA-2014-0222_Wei.pdf.
+
+In this paper, the computational domain is a fixed domain and the method used is the immersed boundary method(IB). We can use moving domain and ALE method.
+
+3) Finite Volume Based Fluid-Structure Interaction Solver: 
+
+4) OpenFOAM FINITE VOLUME SOLVER FOR FLUID-SOLID INTERACTION
+
+5) Reduced-order modeling by POD-multiphase approach for fluid-structure interaction
+
+6) Analysis of finite element and finite volume methods for fluid-structure interaction simulation of blood flow in a real stenosed artery.
+
+7) LOW ORDER DYNAMICAL SYSTEM IN FLUID STRUCTUREINTERACTION USING POD METHOD
+
+8) The finite volume method for coupled fluid flow and stress
+
+9) Application of the finite volume method and unstructured meshes to lin-
+ear elasticity,
+
+10) Updated lagrangian finite volume solver for large deformation dynamic response of elastic body 
+
+11) A large strain finite volume method for orthotropic bodies with general
+material orientations
+
+12) Arbitrary crack propagation in multi-phase materials using the finite volume method
+
+13) Updated lagrangian finite volume solver for large deformation dynamic response of  elastic body
+
+14) Reduced Order Modeling of flow fields in cylinder arrangements in the context of fluid structure interaction
+
+15) Modèle réduit par couplage POD-fonction caractéristique en interaction fluide structure
