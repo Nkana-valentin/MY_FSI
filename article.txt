@@ -34,3 +34,9 @@ material orientations
 14) Reduced Order Modeling of flow fields in cylinder arrangements in the context of fluid structure interaction
 
 15) Modèle réduit par couplage POD-fonction caractéristique en interaction fluide structure
+
+16) POD-Galerkin Projection ROM for the Flow Passing A Rotating Elliptical Airfoil
+
+17) Methods for Simulation-based Analysis of Fluid-Structure Interaction
+
+18) Numerical Methods for Fluid-Structure Interaction- A Review
