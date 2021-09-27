@@ -40,6 +40,8 @@ material orientations
 
 18) Numerical Methods for Fluid-Structure Interaction- A Review
 
-19) Algorithms for fluid-structure interaction problems arising in hemodynamics(A Quaini): In this frame work, the fsi problem focused
+19) Algorithms for fluid-structure interaction problems arising in hemodynamics(A Quaini): 
+In this frame work, the fsi problem focused
 blood vessel which deals with the so called added mass effect and then some Algorithms for Numerical solution of the coupled problem are adressed. For example GMRES algorithm which is suitable in the presence of a strong added mass effect.
 We can also use monolithic approach. In this method/ technique, the fsi probem tends to be well conditionned as the added mass effect is becoming critical. Some strategies proposed in this thesis are extended to fluid-elastic structure interaction.
+The inexact factorization technique is taking in account due the pros of the good accuracy properties.
