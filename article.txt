@@ -40,10 +40,35 @@ material orientations
 
 18) Numerical Methods for Fluid-Structure Interaction- A Review
 
-19) Algorithms for fluid-structure interaction problems arising in hemodynamics(A Quaini): 
+19) The finite volume method for coupled fluid flow and stress analysis
+
+20) A Finite Volume Method for the Solution of Fluid Flows Coupled with the
+Mechanical Behavior of Compacting Porous Media (downloded)
+
+21) On the application of the Reduced Basis Method to Fluid-Structure Interaction problems (Monica)
+
+22) Fluid Structure Interaction: Fundamentals and Application - A Review
+
+23) Proper orthogonal decomposition investigation in fluid structure interaction
+
+24) Reference Map Technique for Incompressible Fluid–Structure Interaction
+
+25) Algorithms for fluid-structure interaction problems arising in hemodynamics(A Quaini): 
 In this frame work, the fsi problem focused
 blood vessel which deals with the so called added mass effect and then some Algorithms for Numerical solution of the coupled problem are adressed. For example GMRES algorithm which is suitable in the presence of a strong added mass effect.
 We can also use monolithic approach. In this method/ technique, the fsi probem tends to be well conditionned as the added mass effect is becoming critical. Some strategies proposed in this thesis are extended to fluid-elastic structure interaction.
+<<<<<<< HEAD
 The inexact factorization technique is taking in account due the pros of the good accuracy properties when solving the NSE.
 
 20) An Overview of Computational Fluid Structure Interaction: Methods and Applications.
+=======
+The inexact factorization technique is taking in account due the pros of the good accuracy properties.
+
+26) Méthodes d’éléments finis pour les interactions fluide-structure(these): chapter3: fsi ALE approach.
+In this chapter, two families of methods to solve fsi problems are presented(monolithic and partitionned implicit scheme). As it's has been shown that monolithic approach and implicit partionned scheme 
+behave the same, the implicit partionned technique is prefered and it's applied to structure with huge deformation in a Newtonian Incompressible fluid. In the same chapter, different types of mesh motion models are adressed(see also 27 below). We have mesh motion with harmonic model, mesh motion with linear elastic model, mesh motion with biharmonic model
+and mesh motion with Kringage. It's reported that harmonic model is cheap follows by the biharmonic model in computational sense.
+
+
+27) Modeling, Discretization, Optimization, and Simulation of Fluid-Structure Interaction (Thomas Wick)
+>>>>>>> 0a6fcc2fd91a3557fef46998a1c7ff970231f8f5
