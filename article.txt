@@ -19,8 +19,7 @@ In this paper, the computational domain is a fixed domain and the method used is
 
 8) The finite volume method for coupled fluid flow and stress
 
-9) Application of the finite volume method and unstructured meshes to lin-
-ear elasticity,
+9) Application of the finite volume method and unstructured meshes to linear elasticity,
 
 10) Updated lagrangian finite volume solver for large deformation dynamic response of elastic body 
 
@@ -53,3 +52,9 @@ Mechanical Behavior of Compacting Porous Media (downloded)
 23) Proper orthogonal decomposition investigation in fluid structure interaction
 
 24) Reference Map Technique for Incompressible Fluid–Structure Interaction
+
+25) Algorithms for fluid-structure interaction problems arising in hemodynamics(A Quaini): 
+In this frame work, the fsi problem focused
+blood vessel which deals with the so called added mass effect and then some Algorithms for Numerical solution of the coupled problem are adressed. For example GMRES algorithm which is suitable in the presence of a strong added mass effect.
+We can also use monolithic approach. In this method/ technique, the fsi probem tends to be well conditionned as the added mass effect is becoming critical. Some strategies proposed in this thesis are extended to fluid-elastic structure interaction.
+The inexact factorization technique is taking in account due the pros of the good accuracy properties.
