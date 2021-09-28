@@ -51,3 +51,5 @@ Mechanical Behavior of Compacting Porous Media (downloded)
 22) Fluid Structure Interaction: Fundamentals and Application - A Review
 
 23) Proper orthogonal decomposition investigation in fluid structure interaction
+
+24) Reference Map Technique for Incompressible Fluid–Structure Interaction
