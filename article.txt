@@ -55,14 +55,22 @@ Mechanical Behavior of Compacting Porous Media (downloded)
 
 25) Algorithms for fluid-structure interaction problems arising in hemodynamics(A Quaini): 
 In this frame work, the fsi problem focused
-blood vessel which deals with the so called added mass effect and then some Algorithms for Numerical solution of the coupled problem are adressed. For example GMRES algorithm which is suitable in the presence of a strong added mass effect.
-We can also use monolithic approach. In this method/ technique, the fsi probem tends to be well conditionned as the added mass effect is becoming critical. Some strategies proposed in this thesis are extended to fluid-elastic structure interaction.
+blood vessel which deals with the so called added mass effect and then some Algorithms for Numerical solution of the coupled problem are adressed. 
+For example GMRES algorithm which is suitable in the presence of a strong added mass effect.
+We can also use monolithic approach. In this method/ technique, the fsi probem tends to be well conditionned as the added mass effect is becoming critical. 
+Some strategies proposed in this thesis are extended to fluid-elastic structure interaction.
 The inexact factorization technique is taking in account due the pros of the good accuracy properties.
 
 26) Méthodes d’éléments finis pour les interactions fluide-structure(these): chapter3: fsi ALE approach.
-In this chapter, two families of methods to solve fsi problems are presented(monolithic and partitionned implicit scheme). As it's has been shown that monolithic approach and implicit partionned scheme 
-behave the same, the implicit partionned technique is prefered and it's applied to structure with huge deformation in a Newtonian Incompressible fluid. In the same chapter, different types of mesh motion models are adressed(see also 27 below). We have mesh motion with harmonic model, mesh motion with linear elastic model, mesh motion with biharmonic model
-and mesh motion with Kringage. It's reported that harmonic model is cheap follows by the biharmonic model in computational sense.
+In this chapter, two families of methods to solve fsi problems are presented(monolithic and partitionned implicit scheme). 
+As it's has been shown that monolithic approach and implicit partionned scheme 
+behave the same, the implicit partionned technique is prefered and it's applied to structure with huge deformation in a Newtonian Incompressible fluid. 
+In the same chapter, different types of mesh motion models are adressed(see also 27 below). 
+We have mesh motion with harmonic model, mesh motion with linear elastic model, mesh motion with biharmonic model
+and mesh motion with Kringage. It's reported that harmonic model is cheap follows by the biharmonic model in computational sense. 
+In chapter4, the author presented a multiphisic coupled problem of fsi-turbulent. The algorithm he used is supposed to be the best among others algorithm.
 
 
 27) Modeling, Discretization, Optimization, and Simulation of Fluid-Structure Interaction (Thomas Wick)
+
+28) interaction fluide-structure par la méthode des éléments spectraux(these)
