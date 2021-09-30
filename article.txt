@@ -68,7 +68,8 @@ behave the same, the implicit partionned technique is prefered and it's applied 
 In the same chapter, different types of mesh motion models are adressed(see also 27 below). 
 We have mesh motion with harmonic model, mesh motion with linear elastic model, mesh motion with biharmonic model
 and mesh motion with Kringage. It's reported that harmonic model is cheap follows by the biharmonic model in computational sense. 
-In chapter4, the author presented a multiphisic coupled problem of fsi-turbulent. The algorithm he used is supposed to be the best among others algorithm.
+In chapter4, the author presented a multiphisic coupled problem of fsi-turbulent. The algorithm he used is supposed to be the best among others algorithm(5.1.5)
+combined with the algorithm he developped (3.6).
 
 
 27) Modeling, Discretization, Optimization, and Simulation of Fluid-Structure Interaction (Thomas Wick)
